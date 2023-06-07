@@ -1,4 +1,4 @@
-# Physics with tagged protons: exclusive di-lepton production for the 2020 CMSDAS
+# Physics with tagged protons: [SMP] Central exclusive dilepton production for the 2023 CMSDAS
 
 General information on CMSDAS 2023:
 * [CMSDAS2023 main page]([https://indico.cern.ch/e/cmsvdas2020](https://indico.cern.ch/e/cmsdas2023cern))
